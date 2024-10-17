@@ -5,6 +5,7 @@
 - **Titolo**: "Linux 101: come funziona una shell"
 - **Abstract**: Ogni utente Linux ha utilizzato una shell, sia per eseguire comandi da tutorial, sia per configurare il proprio sistema a piacimento. Ma quanti conoscono davvero il suo funzionamento interno? In questo talk esamineremo il codice sorgente di una shell didattica, progettata per semplificare concetti complessi come la gestione dei processi e degli utenti, elementi fondamentali del kernel Linux. Approfondiremo l'implementazione di questi meccanismi, analizzandone funzionalità, limiti e compromessi rispetto a quelle reali, offrendo una comprensione più profonda delle basi della shell e del suo ruolo in un sistema Linux."
 - **Data**: 26 Ottobre 2024
+- **Link dell'evento**: [Linux Day Pisa 2024](https://linuxdaypisa.it/)
 
 ## Nota sui materiali
 
