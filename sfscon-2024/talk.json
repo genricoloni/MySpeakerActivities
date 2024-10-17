@@ -1,0 +1,7 @@
+{
+"title": "Sync Your Tunes, Sync Your Screen: Introducing SyncWall",
+"language": "en",
+"conference": "SFSCon 2024",
+"place": "Bozen",
+"abstract": "Ever wished your computer could visually represent your playlist? SyncWall lets you turn every song into a unique visual experience, by dynamically matching your desktop wallpaper to the music currently playing on Spotify!\n\nWe’ll demonstrate SyncWall in action, showcasing its capabilities, and then we’ll dive deeper into the code and the process of creating the images.\n\nSyncWall relies on two core components: Spotify’s API, which provides with all the necessary song information, and Python’s PIL library, which allows to easily manipulate images. Throughout the presentation, we will explore the key concepts and most useful functions of these two technologies, providing you with practical tools to integrate into your own projects.\n\nEven if Syncwall is designed for GNOME, we will dive deep on how to make it work also in different desktop environments. This will cover all the steps and the challenges involved."
+}

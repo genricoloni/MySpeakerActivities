@@ -1,0 +1,7 @@
+{
+    "title": "Linux 101: come funziona una shell",
+    "language": "it",
+    "conference": "LinuxDay 2024",
+    "place": "Pisa",
+    "abstract": "Ogni utente Linux ha utilizzato una shell, sia per eseguire comandi da tutorial, sia per configurare il proprio sistema a piacimento. Ma quanti conoscono davvero il suo funzionamento interno? In questo talk esamineremo il codice sorgente di una shell didattica, progettata per semplificare concetti complessi come la gestione dei processi e degli utenti, elementi fondamentali del kernel Linux. Approfondiremo l'implementazione di questi meccanismi, analizzandone funzionalità, limiti e compromessi rispetto a quelle reali, offrendo una comprensione più profonda delle basi della shell e del suo ruolo in un sistema Linux."
+}
