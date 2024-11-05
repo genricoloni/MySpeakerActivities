@@ -13,4 +13,4 @@
 - A [questo indirizzo](https://lettieri.iet.unipi.it/hacking/ch/2-unix.pdf) è presente una dispensa di introduzione a UNIX.
 - A [questo indirizzo](https://lettieri.iet.unipi.it/hacking/ch/3-shell.pdf) è presente la dispensa che contiene la lezione da cui è stato tratto il talk. Essa contiene ulteriori versioni del codice presentato, e spiegazioni più dettagliate.
 - I codici delle shell possono essere scaricati a [questo indirizzo](https://lettieri.iet.unipi.it/hacking/esh-1.0.zip): le istruzioni per la compilazione sono presenti nella dispensa al punto precedente.
-- Le slide sono disponibili [qui](slides.pdf).
+- Le slide sono disponibili [qui](LD-slides.pdf).
