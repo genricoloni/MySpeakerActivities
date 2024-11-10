@@ -4,8 +4,9 @@ This repository contains the list of conferences I have spoken at, the next even
 
 ## List of conferences I have spoken at
 
-- [IT][Linux Day 2024 @ Pisa, Italy](LinuxDay-2024/readme.md)
+- IT - [Linux Day 2024 @ Pisa, Italy](LinuxDay-2024/readme.md)
+- EN - [SFSCON 2024 @ Bozen, Italy](sfscon-2024/readme.md)
 
 ## Next events
 
-- [EN][SFSCON 2024 @ Bozen, Italy](sfscon-2024/readme.md)
+TBA!

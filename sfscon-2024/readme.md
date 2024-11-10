@@ -9,7 +9,7 @@
 
 ## Useful links
 
-- The application shared in the talk is available on [GitHub](https://github.com/genricoloni/SpotifySyncWall)
+- The application discussed during the talk is available on [GitHub](https://github.com/genricoloni/SpotifySyncWall)
 - The slides are available [here](SFSCON-slides.pdf).
 - My SFSCON speaker profile is can be found [here](https://www.sfscon.it/speakers/giovanni-enrico-loni/).
 - Session recording will be available on the [talk's page](https://www.sfscon.it/talks/sync-your-tunes-sync-your-screen-introducing-syncwall/).
