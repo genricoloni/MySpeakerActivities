@@ -6,6 +6,7 @@ This repository contains the list of conferences I have spoken at, the next even
 
 - IT - [Linux Day 2024 @ Pisa, Italy](LinuxDay-2024/readme.md)
 - EN - [SFSCON 2024 @ Bozen, Italy](sfscon-2024/readme.md)
+- IT - [LightingTalk Night @ Pisa](LightingTalks%40Pisa/readme.md)
 
 ## Next events
 
